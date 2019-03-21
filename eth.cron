@@ -1,0 +1,2 @@
+5,10,15,20,25,30,35,40,45,50,55,00 * * * * /Users/yiws/code/eth_price_screensaver/ethprice.fish
+0 * * * * /usr/local/bin/python3 /Users/yiws/code/eth_price_screensaver/eth_hist.py
